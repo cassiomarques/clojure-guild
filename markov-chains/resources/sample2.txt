@@ -1,0 +1,1 @@
+There are a few feeds I’d like to follow but do not because the entries lack dates. This makes them difficult to follow without a shared, persistent database. I’ve contacted the authors of these feeds to try to get them fixed but have not gotten any responses. I haven’t quite figured out how to do it yet, but I will eventually create a function for
